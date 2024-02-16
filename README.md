@@ -2,6 +2,7 @@
 Version of f1tenth labs (from 1 to 4) in a framework of Ecole Polytechnique Modal INF472R on ROS
 
 AEB: in automatic_emergency_breaking
+
 Follow the Wall and Follow the Gap: both in simple_controller
 
 
