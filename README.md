@@ -1,6 +1,10 @@
 # Modal_ROS_2024
 Version of f1tenth labs (from 1 to 4) in a framework of Ecole Polytechnique Modal INF472R on ROS
 
+AEB: in automatic_emergency_breaking
+Follow the Wall and Follow the Gap: both in simple_controller
+
+
 Main sources of information:
 
 Polytechnique Moodle: https://moodle.polytechnique.fr/course/view.php?id=17390
