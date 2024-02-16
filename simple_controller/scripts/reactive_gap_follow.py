@@ -40,7 +40,7 @@ class reactive_follow_gap:
             2.Rejecting high values (eg. > 3m - high)
         """
         # we take the convolution to "smoothen" the obstacle form, I took this idea from this code
-        # https://github.com/f1tenth/f1tenth_labs/blob/S2023/lab3/code/src/wall_follow.py
+        # https://github.com/gonultasbu/f1tenth_bullet/blob/main/gap_follower.py
         
         proc_ranges = np.array(ranges)
         proc_ranges = np.convolve(proc_ranges, np.ones(self.preproc_conv_size), 'same') / self.preproc_conv_size #convolution = mean over a window of size
