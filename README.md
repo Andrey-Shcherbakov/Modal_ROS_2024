@@ -14,6 +14,9 @@ F1tenth learn: https://f1tenth.org/learn.html
 Idea to the Gap Follow implementation taken from:
 https://github.com/gonultasbu/f1tenth_bullet/blob/main/gap_follower.py
 
+Videos of Simulations:
+https://drive.google.com/drive/folders/1NdBs8n0qdpm4KtLdwW7Mtj_IDKv_uLzn?usp=share_link
+
 My Rapport:
 https://www.overleaf.com/project/65cf24e8e1862750084e190b
 
