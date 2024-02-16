@@ -16,3 +16,6 @@ https://github.com/gonultasbu/f1tenth_bullet/blob/main/gap_follower.py
 
 My Rapport:
 https://www.overleaf.com/project/65cf24e8e1862750084e190b
+
+My Presentation:
+https://docs.google.com/presentation/d/1a4w0MDEZBBt-CsQwdheeLQS0uUg61kSdzFd4aUeAQ4I/edit#slide=id.g2b9d6f576f0_0_40
