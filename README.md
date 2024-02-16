@@ -9,5 +9,8 @@ ROS Tutorial: http://wiki.ros.org/ROS/Tutorials
 
 F1tenth learn: https://f1tenth.org/learn.html
 
+Idea to the Gap Follow implementation taken from:
+https://github.com/gonultasbu/f1tenth_bullet/blob/main/gap_follower.py
+
 My Rapport:
 https://www.overleaf.com/project/65cf24e8e1862750084e190b
