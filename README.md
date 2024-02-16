@@ -7,6 +7,8 @@ Polytechnique Moodle: https://moodle.polytechnique.fr/course/view.php?id=17390
 
 ROS Tutorial: http://wiki.ros.org/ROS/Tutorials
 
+TurtleBot3: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+
 F1tenth learn: https://f1tenth.org/learn.html
 
 Idea to the Gap Follow implementation taken from:
